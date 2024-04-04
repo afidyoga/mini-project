@@ -1,0 +1,11 @@
+{
+  "name": "mini_project_v2",
+  "version": "1.0.0",
+  "description": "mini_project",
+  "main": "tailwind.config.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
