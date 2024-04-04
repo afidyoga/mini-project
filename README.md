@@ -7,3 +7,6 @@ Halaman Product
 
 Halaman Contact
 ![image](https://github.com/afidyoga/mini_project/assets/83437629/7ab151df-1d74-41dc-8c0c-ec6468080ac3)
+
+Halaman Footer
+![image](https://github.com/afidyoga/mini_project/assets/83437629/e2791f7f-80a9-40d9-91fd-7cba0ef927ee)
